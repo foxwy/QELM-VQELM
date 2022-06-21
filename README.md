@@ -4,13 +4,13 @@
 
 ---
 
-This code is for the paper "Variational Quantum Extreme Learning Machine", under review in -*Neurocomputing*, more implementations will be given after the paper is accepted.
+This code is for the paper "Variational Quantum Extreme Learning Machine", under review in *Neurocomputing*, more implementations will be given after the paper is accepted.
 
 #### File Structure
 
 ---
 
-> ***1. basic_function***: some basic execution functions, such as dataset reading and processing, ELM functions, and constructing nonlinear feature maps;
+> ***1. basic_function***: some basic execution functions, such as dataset reading and processing, ELM functions, and nonlinear feature mapping function;
 >
 > ***2. dataset***: the dataset file for reading;
 >
