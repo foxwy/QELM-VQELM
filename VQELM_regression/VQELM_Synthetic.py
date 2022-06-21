@@ -556,7 +556,7 @@ if __name__ == '__main__':
                         # ----------save-----------
                         # -----fig------
                         if save_fig_flag:
-                            fig_path = path+'fig/' + str(N_train) + '_' + str(N_test) + '_' + str(m_init) + '-' + str(RMSE_1) + '_' + str(RMSE_2) + '_' + str(RMSE_3) + '_' + str(RMSE_4)
+                            fig_path = path+'fig/' + str(N_train) + '_' + str(N_test) + '_' + str(m_init) + '-' + str(RMSE_1) + '_' + str(RMSE_2) + '_' + str(RMSE_5) + '_' + str(RMSE_6)
                             if rows == 0 and row == 1:
                                 del_file(path+'fig')
                             plt.tight_layout()
